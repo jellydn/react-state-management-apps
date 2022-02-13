@@ -1,15 +1,34 @@
-# Turborepo starter
+# Welcome to react-state-management-apps 👋
 
-This is an official Yarn v1 starter turborepo.
+![Version](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000)
+![Prerequisite](https://img.shields.io/badge/npm-%3E%3D7.0.0-blue.svg)
+![Prerequisite](https://img.shields.io/badge/node-%3E%3D14.0.0-blue.svg)
+[![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
 
-## What's inside?
+> React state management apps
 
-This turborepo uses [Yarn](https://classic.yarnpkg.com/lang/en/) as a package manager. It includes the following packages/apps:
+## Prerequisites
+
+- npm >=7.0.0
+- node >=14.0.0
+
+## Install
+
+```sh
+yarn install
+```
+
+## Usage
+
+```sh
+yarn dev
+```
 
 ### Apps and Packages
 
-- `docs`: a [Next.js](https://nextjs.org) app
-- `web`: another [Next.js](https://nextjs.org) app
+- `redux-app`: another [Next.js](https://nextjs.org) app with redux
+- `jotai-app`: simple counter [Vite + React!](https://vitejs.dev/) with jotai
+- `recoil-app`: simple counter and data fetching [Vite + React!](https://vitejs.dev/) with recoil
 - `ui`: a stub React component library shared by both `web` and `docs` applications
 - `config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
 - `tsconfig`: `tsconfig.json`s used throughout the monorepo
@@ -43,7 +62,7 @@ yarn run build
 To develop all apps and packages, run the following command:
 
 ```
-cd my-turborepo
+cd react-state-management-apps
 yarn run dev
 ```
 
@@ -54,7 +73,7 @@ Turborepo can use a technique known as [Remote Caching (Beta)](https://turborepo
 By default, Turborepo will cache locally. To enable Remote Caching (Beta) you will need an account with Vercel. If you don't have an account you can [create one](https://vercel.com/signup), then enter the following commands:
 
 ```
-cd my-turborepo
+cd react-state-management-apps
 npx turbo login
 ```
 
@@ -76,3 +95,19 @@ Learn more about the power of Turborepo:
 - [Scoped Tasks](https://turborepo.org/docs/features/scopes)
 - [Configuration Options](https://turborepo.org/docs/reference/configuration)
 - [CLI Usage](https://turborepo.org/docs/reference/command-line-reference)
+
+## Author
+
+👤 **Dung Huynh**
+
+- Website: https://productsway.com/
+- Twitter: [@jellydn](https://twitter.com/jellydn)
+- Github: [@jellydn](https://github.com/jellydn)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+---
+
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

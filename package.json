@@ -1,6 +1,6 @@
 {
-  "name": "turborepo-basic-shared",
-  "version": "0.0.0",
+  "name": "@jellydn/react-state-management-apps",
+  "version": "0.0.1",
   "private": true,
   "workspaces": [
     "apps/*",
@@ -14,7 +14,8 @@
   },
   "devDependencies": {
     "prettier": "^2.5.1",
-    "turbo": "latest"
+    "turbo": "latest",
+    "typescript": "4.5.5"
   },
   "turbo": {
     "baseBranch": "origin/main",

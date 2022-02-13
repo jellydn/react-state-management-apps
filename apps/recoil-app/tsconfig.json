@@ -1,0 +1,6 @@
+{
+  "extends": "@jellydn/tsconfig/react.json",
+  "include": [
+    "./src"
+  ]
+}
