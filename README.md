@@ -7,6 +7,10 @@
 
 > React state management apps
 
+[![React State Management - Part 1 ](https://img.youtube.com/vi/5rsM84taJX4/0.jpg)](https://www.youtube.com/watch?v=5rsM84taJX4)
+
+[![React State Management - Part 2 ](https://img.youtube.com/vi/TQYs8ebLE8A/0.jpg)](https://www.youtube.com/watch?v=TQYs8ebLE8A)
+
 ## Prerequisites
 
 - npm >=7.0.0
