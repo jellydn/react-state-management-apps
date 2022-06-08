@@ -3294,10 +3294,10 @@ jiti@^1.13.0:
   resolved "https://registry.yarnpkg.com/jiti/-/jiti-1.13.0.tgz#3cdfc4e651ca0cca4c62ed5e47747b5841d41a8e"
   integrity sha512-/n9mNxZj/HDSrincJ6RP+L+yXbpnB8FybySBa+IjIaoH9FIxBbrbRT5XUbe8R7zuVM2AQqNMNDDqz0bzx3znOQ==
 
-jotai@1.6.5:
-  version "1.6.5"
-  resolved "https://registry.yarnpkg.com/jotai/-/jotai-1.6.5.tgz#989efe63dc65beea23b3a5eab56f689d78e38070"
-  integrity sha512-B+DGV5ALIkIeyA1Bi9yBpdGmcWkmDS/p8C1XFYx9jFBs+lkeOdu0WAozAPCG4Qq1EcQ68vF+07HmPYFN5kf9OQ==
+jotai@1.7.1:
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/jotai/-/jotai-1.7.1.tgz#a8ed7e05dc4ea0d6692f1301126340a24ee1350c"
+  integrity sha512-Ucighxm0GwjvMpnLn7//CrHFSgLoL7LxHhXm7ofUNIktsRE4TAAhzrwsBb0LjJ0DuBJqQEJq9/jbHFfjO0ylYQ==
 
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
@@ -3958,10 +3958,10 @@ react-dom@18.1.0:
     loose-envify "^1.1.0"
     scheduler "^0.22.0"
 
-react-hook-form@7.30.0:
-  version "7.30.0"
-  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.30.0.tgz#c9e2fd54d3627e43bd94bf38ef549df2e80c1371"
-  integrity sha512-DzjiM6o2vtDGNMB9I4yCqW8J21P314SboNG1O0obROkbg7KVS0I7bMtwSdKyapnCPjHgnxc3L7E5PEdISeEUcQ==
+react-hook-form@7.31.3:
+  version "7.31.3"
+  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.31.3.tgz#b61bafb9a7435f91695351a7a9f714d8c4df0121"
+  integrity sha512-NVZdCWViIWXXXlQ3jxVQH0NuNfwPf8A/0KvuCxrM9qxtP1qYosfR2ZudarziFrVOC7eTUbWbm1T4OyYCwv9oSQ==
 
 react-is@^16.13.1, react-is@^16.7.0:
   version "16.13.1"
