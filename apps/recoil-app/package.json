@@ -24,7 +24,7 @@
     "postcss": "8.4.23",
     "tailwindcss": "3.3.2",
     "vite": "2.9.15",
-    "vite-plugin-windicss": "1.8.10",
+    "vite-plugin-windicss": "1.9.0",
     "windicss": "3.5.6"
   }
 }
