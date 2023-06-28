@@ -15,7 +15,7 @@
   "devDependencies": {
     "prettier": "2.8.8",
     "turbo": "latest",
-    "typescript": "5.1.5"
+    "typescript": "5.1.6"
   },
   "turbo": {
     "baseBranch": "origin/main",
