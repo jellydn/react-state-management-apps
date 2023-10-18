@@ -6,7 +6,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/react": "18.2.29",
-    "@types/react-dom": "18.2.13",
+    "@types/react-dom": "18.2.14",
     "@jellydn/tsconfig": "*",
     "@jellydn/config": "*"
   }
