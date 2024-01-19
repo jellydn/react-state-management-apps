@@ -23,7 +23,7 @@
     "eslint": "8.56.0",
     "postcss": "8.4.33",
     "tailwindcss": "3.4.1",
-    "vite": "4.5.1",
+    "vite": "4.5.2",
     "vite-plugin-windicss": "1.9.3",
     "windicss": "3.5.6"
   }
