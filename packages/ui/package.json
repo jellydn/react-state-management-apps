@@ -5,8 +5,8 @@
   "types": "./index.tsx",
   "license": "MIT",
   "devDependencies": {
-    "@types/react": "18.3.18",
-    "@types/react-dom": "18.3.5",
+    "@types/react": "18.3.23",
+    "@types/react-dom": "18.3.7",
     "@jellydn/tsconfig": "*",
     "@jellydn/config": "*"
   }
