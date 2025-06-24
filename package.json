@@ -13,9 +13,9 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
-    "prettier": "3.4.2",
+    "prettier": "3.6.0",
     "turbo": "latest",
-    "typescript": "5.7.3"
+    "typescript": "5.8.3"
   },
   "turbo": {
     "baseBranch": "origin/main",
